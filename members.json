@@ -1,0 +1,191 @@
+{
+  "members": [
+    {
+      "id": 18948047,
+      "username": "Jaime Escobar Restrepo",
+      "email": "jaime.escobar@sioma.app",
+      "color": "#ff7fab",
+      "initials": "JR",
+      "profilePicture": null,
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43155149,
+      "username": "Miguel Zuñiga",
+      "email": "miguel.zuniga@sioma.app",
+      "color": "#ffa727",
+      "initials": "MZ",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43155149_foG.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43155148,
+      "username": "Julio Herrera",
+      "email": "julio.herrera@sioma.app",
+      "color": "#e65100",
+      "initials": "JH",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43155148_gYu.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43152028,
+      "username": "Cristian Rojas",
+      "email": "cristian@sioma.app",
+      "color": "#0388d1",
+      "initials": "CR",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43152028_pcv.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43155152,
+      "username": "kevin lopez alvarez",
+      "email": "kevin.lopez@sioma.app",
+      "color": "#455963",
+      "initials": "KA",
+      "profilePicture": null,
+      "profileInfo": {
+        "display_profile": null,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43155155,
+      "username": "Jean Carlos Quejada Toro",
+      "email": "jean.quejada@sioma.app",
+      "color": "#afb42b",
+      "initials": "JT",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43155155_BrS.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43155156,
+      "username": "Carlos Valderrama",
+      "email": "carlos.valderrama@sioma.app",
+      "color": "#02579b",
+      "initials": "CV",
+      "profilePicture": null,
+      "profileInfo": {
+        "display_profile": null,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43167169,
+      "username": "Juan Esteban Ramos Mestra",
+      "email": "esteban.ramos@sioma.app",
+      "color": "#e65100",
+      "initials": "JM",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43167169_1Ow.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43167170,
+      "username": "Diego Escobar",
+      "email": "diego.escobar@sioma.app",
+      "color": "#827718",
+      "initials": "DE",
+      "profilePicture": "https://attachments.clickup.com/profilePictures/43167170_hpl.jpg",
+      "profileInfo": {
+        "display_profile": true,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 43169801,
+      "username": "Heidy Hernández Ubarne",
+      "email": "heidy.hernandez@sioma.app",
+      "color": "#8ac34a",
+      "initials": "HU",
+      "profilePicture": null,
+      "profileInfo": {
+        "display_profile": null,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    },
+    {
+      "id": 49505287,
+      "username": "Elvin Javier Mercado",
+      "email": "javier.novoa@sioma.app",
+      "color": "#f42c2c",
+      "initials": "EM",
+      "profilePicture": null,
+      "profileInfo": {
+        "display_profile": null,
+        "verified_ambassador": null,
+        "verified_consultant": null,
+        "top_tier_user": null,
+        "viewed_verified_ambassador": null,
+        "viewed_verified_consultant": null,
+        "viewed_top_tier_user": null
+      }
+    }
+  ]
+}
